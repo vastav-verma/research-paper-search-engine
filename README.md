@@ -100,8 +100,3 @@ Tech Entities:
 ## ⚠️ Note
 The `data/` folder is not included in this repo (files are too large for GitHub).
 Run `01_eda_and_embeddings.ipynb` first to auto-generate all required data files.
-
----
-
-## 👤 Author
-Made with ❤️ using Python, HuggingFace, and Google Colab
